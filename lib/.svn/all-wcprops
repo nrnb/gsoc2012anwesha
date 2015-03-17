@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib
+END
+org.apache.commons.httpclient_3.0.1.v201005080501.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pvplugins/!svn/ver/1008/pv-xmlrpc/trunk/lib/org.apache.commons.httpclient_3.0.1.v201005080501.jar
+END
+ws-commons-util-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib/ws-commons-util-1.0.2.jar
+END
+xmlrpc-server-3.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib/xmlrpc-server-3.1.3.jar
+END
+xmlrpc-common-3.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib/xmlrpc-common-3.1.3.jar
+END
+javax.xml.bind_2.0.0.v20080604-1500.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pvplugins/!svn/ver/1008/pv-xmlrpc/trunk/lib/javax.xml.bind_2.0.0.v20080604-1500.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib/commons-logging-1.1.jar
+END
+org.apache.xmlrpc_3.0.0.v20100427-1100.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pvplugins/!svn/ver/1008/pv-xmlrpc/trunk/lib/org.apache.xmlrpc_3.0.0.v20100427-1100.jar
+END
+xmlrpc-client-3.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pvplugins/!svn/ver/777/pv-xmlrpc/trunk/lib/xmlrpc-client-3.1.3.jar
+END
